@@ -8,7 +8,6 @@ reviewers:
   # Reviewer groups each of which has a list of GitHub usernames
   groups:
     repository-owners:
-      - nate-double-u # username
       - hackabletype
       - team:owners # GitHub team
   #  core-contributors:
