@@ -33,6 +33,7 @@ files:
   # You can assign groups defined above as well as GitHub usernames.
   '**':
     - repository-owners # group
+    - nate-double-u
 
 options:
   ignore_draft: false
