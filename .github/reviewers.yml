@@ -6,3 +6,7 @@ reviewers:
 files:
   '**':
     - nate-double-u
+
+per_author:
+  engineers:
+    - nate-double-u
