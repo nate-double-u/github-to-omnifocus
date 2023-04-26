@@ -1,15 +1,15 @@
 reviewers:
   # The default reviewers
   defaults:
-    # - repository-owners # group
+    - repository-owners # group
     - nate-double-u # username
     - team:default-reviewers # GitHub team
 
   # Reviewer groups each of which has a list of GitHub usernames
-  # groups:
-  #  repository-owners:
-  #    - nate-double-u # username
-  #    - team:owners # GitHub team
+  groups:
+    repository-owners:
+      - nate-double-u # username
+      - team:owners # GitHub team
   #  core-contributors:
   #    - nate-double-u # username
 
