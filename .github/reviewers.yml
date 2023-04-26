@@ -9,6 +9,7 @@ reviewers:
   groups:
     repository-owners:
       - nate-double-u # username
+      - hackabletype
       - team:owners # GitHub team
   #  core-contributors:
   #    - nate-double-u # username
